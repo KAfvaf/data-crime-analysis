@@ -33,5 +33,5 @@ Notebook ini menggunakan:
 ## 🚀 Cara Menjalankan
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/data-wrangling-project.git
+   git clone https://github.com/KAfvaf/data-wrangling-project.git
    cd data-wrangling-project
